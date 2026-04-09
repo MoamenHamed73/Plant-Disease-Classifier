@@ -1,0 +1,11 @@
+﻿*.h5
+*.keras
+*.pt
+*.pth
+*.zip
+*.jpg
+*.png
+*.jpeg
+dataset/
+data/
+__pycache__/
